@@ -1,0 +1,14 @@
+.vnalogo {
+  width: 60%;
+  height: 200px;
+}
+.allogo {
+  width: 20%;
+  height: 200px;
+}
+.mytab {
+  border-collapse: collapse;
+}
+td {
+  border: 2px solid black;
+}
